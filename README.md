@@ -1,5 +1,8 @@
 # Analyzing Njal's Saga (The Burning of Njal)
-Running a classic NLP text analysis process on Njal's Saga, the Icelandic Saga from the 13th Century, with particular attention paid to words and concepts surrounding time.
+Running a classic NLP text analysis process on Njal's Saga, the Icelandic Saga from the 13th Century, with particular attention paid to words and concepts surrounding time and the passage of time in the work.
+
+
+
 The text file comes directly as a text file from Project Gutenberg, where I eliminated their licensing and the preface to the work for the sake of analysis.
 Their language follows and identifies the work:
 
